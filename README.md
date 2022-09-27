@@ -4,8 +4,6 @@ Car Rental Invoice Calculator
 
 **Points:** 25
 
-**Due: Wednesday,  October 5, 2022, 10:30am (Section 01), 1 pm (Section 02)**
-
 **This is an individual assignment.**
 
 **Goals:**
