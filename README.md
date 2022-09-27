@@ -107,7 +107,7 @@ Press any key to close this window . .
 
 2.  **An electronic copy of your program is to be placed on Moodle**
 
-    - See Lab01 for producing a pdf of your complete program. Once you have produced the pdf of your program and named the pdf your punetid, drop the pdf in the Assign03 folder on Moodle. 
+    - See Lab01 for producing a pdf of your complete program. Once you have produced the pdf of your program and named the pdf your <b>punetidAssign03</b>, drop the pdf in the Assign03 folder on Moodle. 
     - The pdf must be in the drop folder on Moodle by the time and day specified above. Anything submitted after that will be considered late.
 
 > **Good luck! And remember, if you have any problems, come and see straight away. **
