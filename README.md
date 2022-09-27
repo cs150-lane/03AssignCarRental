@@ -4,6 +4,8 @@ Car Rental Invoice Calculator
 
 **Points:** 25
 
+**Due: Wednesday,  October 5, 2022, 10:30am (Section 01), 1 pm (Section 02)**
+
 **This is an individual assignment.**
 
 **Goals:**
@@ -52,8 +54,8 @@ Press any key to close this window . . .
 
 Some things to note:
 1.	All user input should be validated:
-  - The day today must be a number between 0 and 6, inclusive, and you can assume that the user will enter an integer.  
-  - The weekday rate, the weekend rate, and the number of days the car will be rented all must be strictly greater than 0.  You may assume that the user will enter an integer for the number of days the car will be rented, but you should not assume this for the weekday rate and the weekend rate.  
+     - The day today must be a number between 0 and 6, inclusive, and you can assume that the user will enter an integer.  
+     - The weekday rate, the weekend rate, and the number of days the car will be rented all must be strictly greater than 0.  You may assume that the user will enter an integer for the number of days the car will be rented, but you should not assume this for the weekday rate and the weekend rate.  
 If the user enters an invalid number, the user should be prompted again until a valid number is enter. 
 
 2.	All monetary amounts must be displayed to 2 decimal places.
@@ -70,15 +72,15 @@ If the user enters an invalid number, the user should be prompted again until a 
 ***********************
  Car Rental Calculator
 ***********************
-What is the day today (0 - Sunday ... 6 - Saturday)? -1
-What is the day today (0 - Sunday ... 6 - Saturday)? 7
-What is the day today (0 - Sunday ... 6 - Saturday)? 6
-What is the weekday rate? $0
-What is the weekday rate? $50
-What is the weekend rate? $-10
-What is the weekend rate? $25
-How many days will you rent the car? 0
-How many days will you rent the car? 10
+What is the day today (0 - Sunday ... 6 - Saturday)? <b>-1</b>
+What is the day today (0 - Sunday ... 6 - Saturday)? <b>7 </b>
+What is the day today (0 - Sunday ... 6 - Saturday)? <b>6 </b>
+What is the weekday rate? $<b>0</b>
+What is the weekday rate? $<b>50</b>
+What is the weekend rate? $<b>-10</b>
+What is the weekend rate? $<b>25</b>
+How many days will you rent the car? <b>0</b>
+How many days will you rent the car? <b>10</b>
 
 ***************Summary of Costs***************
 Day 1: Daily Cost: $25.00 Total Cost: $25.00
@@ -102,15 +104,13 @@ Press any key to close this window . .
 **To complete this assignment you must submit the following:**
 
 1.  **An electronic Solution of your program on GitHub**
-
-  - You are to click on the Assign03 Link on Moodle to accept this assignment as we’ve done in lab. Once accepted, code up a complete solution to the above assignment specification. Your complete solution is to be pushed to GitHub no later than the date and time specified above for your specific section.
-  - Pay attention to the example output above. Your program’s output must look exactly like the example output! The spacing and newlines in your output must match exactly.
-  - Make sure that your program compiles and runs correctly with no errors and no warnings. If you get any errors, double check that you typed everything correctly. Be aware that C++ is case-sensitive.
+     - You are to click on the Assign03 Link on Moodle to accept this assignment as we’ve done in lab. Once accepted, code up a complete solution to the above assignment specification. Your complete solution is to be pushed to GitHub no later than the date and time specified above for your specific section.
+     - Pay attention to the example output above. Your program’s output must look exactly like the example output! The spacing and newlines in your output must match exactly.
+     - Make sure that your program compiles and runs correctly with no errors and no warnings. If you get any errors, double check that you typed everything correctly. Be aware that C++ is case-sensitive.
 
 2.  **An electronic copy of your program is to be placed on Moodle**
 
     - See Lab01 for producing a pdf of your complete program. Once you have produced the pdf of your program and named the pdf your punetid, drop the pdf in the Assign03 folder on Moodle. 
-
     - The pdf must be in the drop folder on Moodle by the time and day specified above. Anything submitted after that will be considered late.
 
 > **Good luck! And remember, if you have any problems, come and see straight away. **
