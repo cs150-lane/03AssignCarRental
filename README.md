@@ -3,6 +3,7 @@
 Car Rental Invoice Calculator
 
 **Points:** 25
+
 **This is an individual assignment.**
 
 **Goals:**
